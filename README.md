@@ -1,6 +1,8 @@
 Simple Python Server Monitor
 ============================
 
+NOTE: This is intended as a non-win32 fork. This will have unintended output on a win32 console. Please check https://github.com/brendancarlson/Simple-Python-Server-Monitor for the win32-checking fork.
+
 Super simple Python based server ping monitor. Emails you with any email address (default: Gmail) if server is down.
 
 Adding Sites
